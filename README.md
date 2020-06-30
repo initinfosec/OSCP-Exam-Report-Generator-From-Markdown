@@ -5,11 +5,11 @@
 [![GitHub forks](https://img.shields.io/github/forks/noraj/OSCP-Exam-Report-Template-Markdown?style=flat-square)](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown/network)
 [![GitHub license](https://img.shields.io/github/license/noraj/OSCP-Exam-Report-Template-Markdown?style=flat-square)](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown/blob/master/LICENSE)
 
-## Fork & update/overhaaul of noraj's original script to provide more flexibility & ease in report generation.
+## Fork & update/overhaul of noraj's original script to provide more flexibility & ease in report generation.
 
 - included options for user-defined/custom-made template & added TJNull's OSCP exam report from [TJ-JPT jex file](https://github.com/tjnull/TJ-JPT)
 - added a variety of selections in menu to create more options without custom report mods
-- created setup.sh file to install & stage requirements w/o manual placement of dependencies
+- created setup.sh file to install & stage requirements w/o manual placement of dependencies [Kali Linux specific]
 
 
 ## Requirements
