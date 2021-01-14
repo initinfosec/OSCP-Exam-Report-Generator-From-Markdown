@@ -1,3 +1,5 @@
+## Notice - This repo has moved to GitLab - https://gitlab.com/initinfosec/OSCP-Exam-Report-Generator-From-Markdown
+
 # OSCP Exam Report from Markdown Generator
 
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat-square.svg)](https://inventory.rawsec.ml/tools.html#OSCP%20Exam%20Report%20Template%20in%20Markdown)
